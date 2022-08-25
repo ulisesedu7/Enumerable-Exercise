@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 # Enumerable-Exercise
 
-> This is a project that contains ruby challenge that will decode a morse code letter, word or sentence.
+> This is a project that contains ruby exercise to learn how to use modules with the Enumerable methods.
 
 ## Built With
 
