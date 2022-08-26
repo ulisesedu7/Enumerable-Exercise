@@ -1,4 +1,4 @@
-require_relative './My-List.rb'
+require_relative './My_List'
 list = MyList.new(1, 2, 3, 4)
 
 # Test #all?
